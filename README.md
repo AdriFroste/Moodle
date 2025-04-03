@@ -17,7 +17,7 @@ Ubicación
 Idioma
 ![09](09.png)
 ![10](10.png)
-## Configuración de la contra
+## Configuración de la contraseña
 ![12](12.png)
 ![13](13.png)
 

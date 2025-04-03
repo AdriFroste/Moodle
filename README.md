@@ -17,9 +17,15 @@ Ubicación
 Idioma
 ![09](09.png)
 ![10](10.png)
-## Configuración de la contraseña
+## Configuración de la contraseña obligatoria de los usuarios
 ![12](12.png)
 ![13](13.png)
+## Creación del curso A con 3 secciones
+![15](15.png)
+![16](16.png)
+## Creación del curso B
+![17](17.png)
+
 
 
 

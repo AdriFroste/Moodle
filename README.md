@@ -84,6 +84,13 @@ Solo se muestra una actividad pero basicamente asi con todas
 ## Copia de seguridad
 ![60](60.png)
 ![61](61.png)
+## Añadir logo
+![62](62.png)
+![63](63.png)
+## Cambiar tema
+![64](64.png)
+![65](65.png)
+# Hasta aqui el manual
 
 
 
